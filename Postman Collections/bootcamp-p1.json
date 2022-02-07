@@ -7,7 +7,21 @@
   "item": [
     {
       "name": "client",
-      "item": [],
+      "item": [
+        {
+          "name": "New Request",
+          "id": "c2f5d1d5-9e1c-4b54-8482-fbafd5ebf259",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": null
+          },
+          "response": []
+        }
+      ],
       "id": "f717b92f-e246-4283-8dd3-6fbdd1a00018"
     }
   ]
