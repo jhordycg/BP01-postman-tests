@@ -6,7 +6,7 @@
   },
   "item": [
     {
-      "name": "client",
+      "name": "customers",
       "item": [
         {
           "name": "find all",
@@ -62,7 +62,7 @@
   ],
   "variable": [
     {
-      "id": "ec5cffad-2d4c-4930-b2ab-4a97cc2ec6cc",
+      "id": "86188c42-9b87-408d-9084-ecda37e7f05b",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
