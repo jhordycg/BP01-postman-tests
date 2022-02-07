@@ -20,6 +20,19 @@
             "url": "{{url}}/customers"
           },
           "response": []
+        },
+        {
+          "name": "New Request",
+          "id": "56493e02-b2c0-4a14-955f-11c9b8bcc657",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": null
+          },
+          "response": []
         }
       ],
       "id": "f717b92f-e246-4283-8dd3-6fbdd1a00018"
@@ -49,7 +62,7 @@
   ],
   "variable": [
     {
-      "id": "7ffd66c5-7644-40df-ac5f-a884c468621c",
+      "id": "d20d43b4-b292-4873-a668-4707d81d21fe",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
