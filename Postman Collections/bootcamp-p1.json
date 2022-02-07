@@ -29,7 +29,7 @@
     {
       "listen": "prerequest",
       "script": {
-        "id": "699b7a1e-b115-44bc-b810-17ff9c2fcbd8",
+        "id": "cfc713ce-dc18-4549-b250-e339f8f524c8",
         "type": "text/javascript",
         "exec": [
           ""
@@ -39,7 +39,7 @@
     {
       "listen": "test",
       "script": {
-        "id": "74ea4a7d-51ad-4bce-a6da-2c7ce47a3426",
+        "id": "59f0064a-9215-43df-991c-a899b80aeb7d",
         "type": "text/javascript",
         "exec": [
           ""
@@ -49,9 +49,9 @@
   ],
   "variable": [
     {
-      "id": "f6200039-b337-4045-aaa7-ef762dd42afc",
+      "id": "682314dc-b512-49fb-b053-874fb3cab9d2",
       "key": "url",
-      "value": "http://127.0.0.1",
+      "value": "http://127.0.0.1:8001",
       "type": "string"
     }
   ]
