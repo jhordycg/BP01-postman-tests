@@ -24,5 +24,35 @@
       ],
       "id": "f717b92f-e246-4283-8dd3-6fbdd1a00018"
     }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "id": "699b7a1e-b115-44bc-b810-17ff9c2fcbd8",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "id": "74ea4a7d-51ad-4bce-a6da-2c7ce47a3426",
+        "type": "text/javascript",
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "id": "f6200039-b337-4045-aaa7-ef762dd42afc",
+      "key": "url",
+      "value": "http://127.0.0.1",
+      "type": "string"
+    }
   ]
 }
