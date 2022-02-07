@@ -22,7 +22,7 @@
           "response": []
         },
         {
-          "name": "natural customer",
+          "name": "new natural",
           "id": "56493e02-b2c0-4a14-955f-11c9b8bcc657",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -62,7 +62,7 @@
   ],
   "variable": [
     {
-      "id": "86188c42-9b87-408d-9084-ecda37e7f05b",
+      "id": "fb1172a0-1345-4bed-aa2d-dc207d07487a",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
