@@ -54,14 +54,14 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\r\n    \"id\": \"620164d04121055a9ced9a4f\",\r\n    \"fullName\": \"Pablo Emilio Escobar Gaviria\",\r\n    \"mailAddress\": \"emilio@banco.com\",\r\n    \"address\": \"calle san andres s/n\",\r\n    \"type\": \"PERSONAL\"\r\n}",
+              "raw": "{\r\n    \"fullName\": \"Pablo Emilio Escobar Gaviria\",\r\n    \"mailAddress\": \"emilio@banco.com\",\r\n    \"address\": \"calle san andres s/n\",\r\n    \"type\": \"PERSONAL\"\r\n}",
               "options": {
                 "raw": {
                   "language": "json"
                 }
               }
             },
-            "url": "{{url}}/customers/620164d04121055a9ced9a4f"
+            "url": "{{url}}/customers/6202a1bb05d8dd39ee96611f"
           },
           "response": []
         },
@@ -106,7 +106,7 @@
   ],
   "variable": [
     {
-      "id": "63f386a9-b114-4df3-bb17-e7a935c8fc07",
+      "id": "985a3e82-64e4-40d8-b583-df172723695e",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
