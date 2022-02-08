@@ -74,7 +74,7 @@
           "request": {
             "method": "DELETE",
             "header": [],
-            "url": "{{url}}/customers/"
+            "url": "{{url}}/customers/6202a26405d8dd39ee966120"
           },
           "response": []
         }
@@ -106,7 +106,7 @@
   ],
   "variable": [
     {
-      "id": "4ceec17b-1fd8-4fc3-b21e-2ab9c6673a0c",
+      "id": "9894b7a0-5e39-4b29-b418-92c5480a5e64",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
