@@ -61,7 +61,7 @@
                 }
               }
             },
-            "url": "{{url}}/customers/6202a1bb05d8dd39ee96611f"
+            "url": "{{url}}/customers/6202a26405d8dd39ee966120"
           },
           "response": []
         },
@@ -106,7 +106,7 @@
   ],
   "variable": [
     {
-      "id": "50468811-63c8-4610-a47c-1cb614fb550a",
+      "id": "4ceec17b-1fd8-4fc3-b21e-2ab9c6673a0c",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
