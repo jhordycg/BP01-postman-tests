@@ -72,9 +72,9 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "DELETE",
             "header": [],
-            "url": null
+            "url": "{{url}}/customers/"
           },
           "response": []
         }
@@ -106,7 +106,7 @@
   ],
   "variable": [
     {
-      "id": "2141c10e-94d7-4b58-b1f6-27b640615314",
+      "id": "7046bea1-81fc-4989-b879-8bfb2722c0fb",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
