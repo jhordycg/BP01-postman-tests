@@ -45,7 +45,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\r\n    \"fullName\": \"Pablo Emilio Escobar Gaviria\",\r\n    \"mailAddress\": \"emilio@banco.com\",\r\n    \"address\": \"calle san andres s/n\",\r\n    \"type\": \"personal\"\r\n}",
+              "raw": "{\r\n    \"id\": \"620164d04121055a9ced9a4f\",\r\n    \"fullName\": \"Pablo Emilio Escobar Gaviria\",\r\n    \"mailAddress\": \"emilio@banco.com\",\r\n    \"address\": \"calle san andres s/n\",\r\n    \"type\": \"PERSONAL\"\r\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -84,7 +84,7 @@
   ],
   "variable": [
     {
-      "id": "0cd0dd36-40e8-41b8-9915-a90bb37584cb",
+      "id": "1469ee4e-ec89-46f9-bfe4-3e364ef8d5fb",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
