@@ -41,9 +41,18 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "PUT",
             "header": [],
-            "url": null
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"fullName\": \"Pablo Emilio Escobar Gaviria\",\r\n    \"mailAddress\": \"emilio@banco.com\",\r\n    \"address\": \"calle san andres s/n\",\r\n    \"type\": \"NATURAL\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": "{{url}}/customers/620164d04121055a9ced9a4f"
           },
           "response": []
         }
@@ -75,7 +84,7 @@
   ],
   "variable": [
     {
-      "id": "a0d56c65-a9a1-4d0b-862b-b8ff5d848c72",
+      "id": "594e04d7-15c0-499a-9c45-f56647ca7d80",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
