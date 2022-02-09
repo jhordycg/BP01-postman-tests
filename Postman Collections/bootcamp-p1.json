@@ -195,7 +195,7 @@
           "request": {
             "method": "GET",
             "header": [],
-            "url": null
+            "url": "{{url-transaction}}/transactions"
           },
           "response": []
         },
@@ -262,19 +262,19 @@
   ],
   "variable": [
     {
-      "id": "83e7dbad-f388-49ed-a3e9-5e0ac67478a4",
+      "id": "cb833762-8545-4ae1-8f69-50d00b85670c",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "f02d8d59-959e-4543-88d3-39b3e2746086",
+      "id": "da83b428-690d-4c1b-9a40-ff8bd50e83e7",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "ba5486f0-d81c-4eee-bf83-d4ff0e637e49",
+      "id": "6926391e-d225-4f4c-8425-df650c130593",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
