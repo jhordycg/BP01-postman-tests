@@ -283,7 +283,7 @@
     {
       "listen": "prerequest",
       "script": {
-        "id": "29283c17-a884-4681-97d9-4019687d5130",
+        "id": "1b78077c-67a3-421b-915a-368c8989e336",
         "type": "text/javascript",
         "exec": [
           ""
@@ -293,7 +293,7 @@
     {
       "listen": "test",
       "script": {
-        "id": "44b9067d-b0bd-4abc-a2c8-a02e7d249f62",
+        "id": "0b8a4a51-24b9-49ba-bcb0-083fe0a7cebd",
         "type": "text/javascript",
         "exec": [
           ""
@@ -303,21 +303,27 @@
   ],
   "variable": [
     {
-      "id": "6b68c5e5-0482-49fc-b80b-716fc3aa13c3",
+      "id": "a911e8f7-78ca-42ec-93fc-af7638953980",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "43462263-1dcc-4e77-b6c1-82fa709c5f01",
+      "id": "8185266f-b3f7-4575-bd4b-700a190f8584",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "a464f147-dc5a-48c8-9fdc-c8f8cf682d4a",
+      "id": "986d19b8-8b6f-428b-8797-fb5331f582e1",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
+      "type": "string"
+    },
+    {
+      "id": "19054e70-6ff8-4c1c-b213-04197b8d32fa",
+      "key": "url-payment",
+      "value": "http://127.0.0.1:8005",
       "type": "string"
     }
   ]
