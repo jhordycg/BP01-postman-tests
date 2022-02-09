@@ -168,7 +168,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "Find By Name",
           "id": "164c6501-2c1a-4647-8250-7bc139bc0fda",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -208,13 +208,13 @@
   ],
   "variable": [
     {
-      "id": "a8c82cb5-c899-400c-b501-2149ce516791",
+      "id": "9bf7deac-9d2d-417d-bef9-ddf307340dab",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "da0fb058-3401-421d-881d-1bf2cd3267e2",
+      "id": "6ebfa203-4df6-4aa9-8add-2ff1fde28acf",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
