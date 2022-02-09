@@ -119,7 +119,7 @@
           "request": {
             "method": "GET",
             "header": [],
-            "url": null
+            "url": "{{url-product}}/products/name/Crédito Personal"
           },
           "response": []
         },
@@ -208,13 +208,13 @@
   ],
   "variable": [
     {
-      "id": "1c265b58-934a-451d-9d50-d198da482ac2",
+      "id": "045f48cc-6fec-462c-9fc0-c58181df2ac8",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "221ed3b6-071c-4a3c-8747-2565b0cc9d8f",
+      "id": "f3fd6eee-2108-4a2c-8bad-b09d78741295",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
