@@ -85,7 +85,7 @@
       "name": "products",
       "item": [
         {
-          "name": "New Request",
+          "name": "Get All",
           "id": "16aa0159-96ba-4e6f-b87a-857e1319f37b",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -125,13 +125,13 @@
   ],
   "variable": [
     {
-      "id": "59d7363b-ef04-4415-8105-7a99ce5522a7",
+      "id": "2a7b9216-8dee-4a1a-837b-54dbf554c4e9",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "039fb017-2302-4a19-8882-3da6a53f98cc",
+      "id": "1ddeacaa-f733-47c4-b4ee-f57367f47931",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
