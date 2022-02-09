@@ -109,6 +109,19 @@
             "url": null
           },
           "response": []
+        },
+        {
+          "name": "New Request",
+          "id": "62762305-422d-4627-a8c8-826b04dc4a9c",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": null
+          },
+          "response": []
         }
       ],
       "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
@@ -138,13 +151,13 @@
   ],
   "variable": [
     {
-      "id": "1bfa5cb2-2d57-48fd-9339-3cbd82eef1ca",
+      "id": "f710bb85-ebf7-4f64-979b-a45951957858",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "bdb49b7e-19f1-4a9c-bd7d-8a1548d58281",
+      "id": "306a0e60-745e-4b17-bb85-75ac07950891",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
