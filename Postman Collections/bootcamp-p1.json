@@ -327,7 +327,7 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "POST",
             "header": [],
             "body": {
               "mode": "raw",
@@ -370,25 +370,25 @@
   ],
   "variable": [
     {
-      "id": "dccc4818-984f-4004-9d13-b2a83196dfab",
+      "id": "9b68f418-e694-4500-932a-6ecb8e433a2c",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "bfa88d76-6092-46b2-9551-d757135576ae",
+      "id": "1c8cfec4-6e64-4bb6-92d3-8178742c4c09",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "9bc514d1-8445-4126-8dc5-4069a2d99751",
+      "id": "7af5bccf-62d6-4649-ac29-fa8ee251f507",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "798ff2c2-75b7-46ed-a2e0-fdc2ae504aef",
+      "id": "840b1f25-da2b-49c8-be53-63dcec5aa8a4",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
