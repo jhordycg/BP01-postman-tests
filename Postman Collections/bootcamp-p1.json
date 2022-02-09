@@ -275,19 +275,19 @@
   ],
   "variable": [
     {
-      "id": "badefb60-f6e1-4b02-88ac-85763f53eaf4",
+      "id": "fec43818-63e2-4c58-8299-d058594e499a",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "5d60d6b6-f41a-4ad7-84ba-db41c8c6c9e6",
+      "id": "2aaf0172-56bf-41fc-82ad-6e111e088427",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "e6fd7d22-12d2-4045-8eb5-7cb7fd9231ba",
+      "id": "f3c2df95-10b1-4e2e-a9c0-0e68e766ba93",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
