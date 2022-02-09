@@ -106,7 +106,7 @@
           "request": {
             "method": "GET",
             "header": [],
-            "url": null
+            "url": "{{url-product}}/products/620336610c5e9049d4d49583"
           },
           "response": []
         },
@@ -151,13 +151,13 @@
   ],
   "variable": [
     {
-      "id": "ddcd6989-288f-4dac-96ef-be968cf95a07",
+      "id": "1dbebb9c-33be-47fd-86b7-364ba6e4534c",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "77215d1c-b6e2-4c96-aa18-1a65c733f061",
+      "id": "975edcb1-a309-4e0e-9799-899ce9628fca",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
