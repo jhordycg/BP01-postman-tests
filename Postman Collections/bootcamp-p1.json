@@ -111,6 +111,19 @@
           "response": []
         },
         {
+          "name": "Find By Name",
+          "id": "164c6501-2c1a-4647-8250-7bc139bc0fda",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": null
+          },
+          "response": []
+        },
+        {
           "name": "Create",
           "id": "62762305-422d-4627-a8c8-826b04dc4a9c",
           "protocolProfileBehavior": {
@@ -166,19 +179,6 @@
             "url": "{{url-product}}/products/620339840c5e9049d4d49588"
           },
           "response": []
-        },
-        {
-          "name": "Find By Name",
-          "id": "164c6501-2c1a-4647-8250-7bc139bc0fda",
-          "protocolProfileBehavior": {
-            "disableBodyPruning": true
-          },
-          "request": {
-            "method": "GET",
-            "header": [],
-            "url": null
-          },
-          "response": []
         }
       ],
       "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
@@ -208,13 +208,13 @@
   ],
   "variable": [
     {
-      "id": "9bf7deac-9d2d-417d-bef9-ddf307340dab",
+      "id": "1c265b58-934a-451d-9d50-d198da482ac2",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "6ebfa203-4df6-4aa9-8add-2ff1fde28acf",
+      "id": "221ed3b6-071c-4a3c-8747-2565b0cc9d8f",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
