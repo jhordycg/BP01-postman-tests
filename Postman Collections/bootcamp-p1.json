@@ -187,7 +187,7 @@
       "name": "transaction",
       "item": [
         {
-          "name": "New Request",
+          "name": "Find All",
           "id": "f96d5fbb-f683-4772-a866-843ff02e19ff",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -227,13 +227,13 @@
   ],
   "variable": [
     {
-      "id": "bd6455ca-8759-4813-a046-d12f4e68eea8",
+      "id": "e39ee3b3-aaad-43bd-8763-bcce89e0bcd9",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "b2617f4a-c12e-4c0a-82fd-0ff3330e0c8a",
+      "id": "271bd2ea-bdf8-4794-9d1b-4389f6d62c11",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
