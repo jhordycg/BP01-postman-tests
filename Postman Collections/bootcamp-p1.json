@@ -338,7 +338,7 @@
                 }
               }
             },
-            "url": null
+            "url": "{{url}}/accounts"
           },
           "response": []
         }
@@ -370,25 +370,25 @@
   ],
   "variable": [
     {
-      "id": "6d5037ea-d545-461c-ad87-0e903e94748a",
+      "id": "dccc4818-984f-4004-9d13-b2a83196dfab",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "d1bdb77e-911c-45dc-a7cd-615d3b5e61df",
+      "id": "bfa88d76-6092-46b2-9551-d757135576ae",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "382f7fa0-db31-4df3-8e4a-d863769247ff",
+      "id": "9bc514d1-8445-4126-8dc5-4069a2d99751",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "9506bd13-b0dc-4cd3-9e51-9d5487c0b65a",
+      "id": "798ff2c2-75b7-46ed-a2e0-fdc2ae504aef",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
