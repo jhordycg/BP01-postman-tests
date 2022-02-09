@@ -139,9 +139,18 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "PUT",
             "header": [],
-            "url": null
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"name\": \"Cuenta Free Update\",\r\n    \"type\": \"Activo\",\r\n    \"commission\": true\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": "{{url-product}}/products/620339840c5e9049d4d49588"
           },
           "response": []
         }
@@ -173,13 +182,13 @@
   ],
   "variable": [
     {
-      "id": "81892079-e444-4306-9a16-5bc6d9c7c478",
+      "id": "3f6cf4f8-285c-4daa-9011-b30af27fa9ae",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "eee0846b-db79-4abc-b50e-afb804c9ee37",
+      "id": "ea5b27ca-5bc6-4a80-b9c7-b1d29bb8a470",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
