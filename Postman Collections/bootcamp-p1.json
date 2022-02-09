@@ -155,7 +155,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "Delete",
           "id": "e1acdc70-584d-4f78-8e67-9c278482c8a7",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -195,13 +195,13 @@
   ],
   "variable": [
     {
-      "id": "5af38e42-8323-42cc-8f17-34d98dba79cc",
+      "id": "c400f825-6e07-4df1-bcf5-091d1206554f",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "a8f3b138-14c4-4f36-9239-69b7eb043b3f",
+      "id": "7a6bd7a1-e210-4911-8e65-825146ba87f3",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
