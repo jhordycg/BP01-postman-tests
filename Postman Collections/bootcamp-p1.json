@@ -131,6 +131,19 @@
             "url": "{{url-product}}/products"
           },
           "response": []
+        },
+        {
+          "name": "New Request",
+          "id": "ccf2e5c7-1dac-4c1c-b875-6d0cd1d6ba77",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": null
+          },
+          "response": []
         }
       ],
       "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
@@ -160,13 +173,13 @@
   ],
   "variable": [
     {
-      "id": "d2615d10-3057-43ff-a902-958489a632ac",
+      "id": "411f22a8-8504-4fd3-a3e8-6f5fc6ef5b88",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "9e5ba222-a8bb-4496-acce-449506ae7d50",
+      "id": "ca7f3317-b7ba-40b8-b82e-bfc6f8826258",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
