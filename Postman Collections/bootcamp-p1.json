@@ -173,13 +173,13 @@
   ],
   "variable": [
     {
-      "id": "411f22a8-8504-4fd3-a3e8-6f5fc6ef5b88",
+      "id": "da4407fe-f61b-42c1-ad1d-1ba1985b0ca5",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "ca7f3317-b7ba-40b8-b82e-bfc6f8826258",
+      "id": "a7f5ed00-d6f5-468a-85af-3e6fd5908336",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
