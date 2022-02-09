@@ -111,7 +111,7 @@
           "response": []
         },
         {
-          "name": "New Request",
+          "name": "Create",
           "id": "62762305-422d-4627-a8c8-826b04dc4a9c",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -151,13 +151,13 @@
   ],
   "variable": [
     {
-      "id": "68b0c3f7-a132-469b-98f0-fa724591b712",
+      "id": "e357c641-83c9-4fff-9a09-61ea8371796b",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "eca8caf7-b0fb-4dc1-8c0c-b8d8e0c05e99",
+      "id": "6e34abfb-0c84-45dd-9cc6-5ce12affc9d0",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
