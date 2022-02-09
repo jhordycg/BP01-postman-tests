@@ -161,9 +161,9 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "DELETE",
             "header": [],
-            "url": null
+            "url": "{{url-product}}/products/620339840c5e9049d4d49588"
           },
           "response": []
         }
@@ -195,13 +195,13 @@
   ],
   "variable": [
     {
-      "id": "c400f825-6e07-4df1-bcf5-091d1206554f",
+      "id": "5ce3c463-dfde-47c5-b83f-389a106295d7",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "7a6bd7a1-e210-4911-8e65-825146ba87f3",
+      "id": "4fbce1c6-7933-4fef-b026-fb877bcf42ee",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
