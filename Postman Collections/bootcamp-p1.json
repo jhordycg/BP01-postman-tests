@@ -182,6 +182,11 @@
         }
       ],
       "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
+    },
+    {
+      "name": "New Folder",
+      "item": [],
+      "id": "1fc2d429-1fe7-41b3-bb04-01a95edad561"
     }
   ],
   "event": [
@@ -208,13 +213,13 @@
   ],
   "variable": [
     {
-      "id": "9cb5ba5e-b674-45f3-b649-51b255ccfdae",
+      "id": "2106c0f5-66b9-4b1a-8274-d2bb6f6dbdfe",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "d8f201d0-26cb-4fd4-8f9b-6be76a42d035",
+      "id": "d22473be-f4c2-47cc-926a-4176d19e17dd",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
