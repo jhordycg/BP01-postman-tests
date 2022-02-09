@@ -344,7 +344,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\r\n    \"customerId\": \"6202a30acc79a05ac3241295\",\r\n    \"productId\": \"una-prueba-nomas\",\r\n    \"balance\": true,\r\n    \"movements\": 50\r\n}",
+              "raw": "{\r\n    \"customerId\": \"6202a30acc79a05ac3241295\",\r\n    \"productId\": \"una-prueba-nomas2\",\r\n    \"balance\": true,\r\n    \"movements\": 50\r\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -428,31 +428,31 @@
   ],
   "variable": [
     {
-      "id": "d14ced45-cde3-4d2f-a76c-9de07a204119",
+      "id": "dcea877a-2c99-49a2-a597-82892979caee",
       "key": "url-customer",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "6f58657e-4b6d-48fd-bbeb-e973b65d0498",
+      "id": "e1b04deb-04c8-46cc-a056-272fe340194b",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "d8dc0c95-a431-4704-b4b1-0653dd8f18c2",
+      "id": "572fc731-76ef-466e-87ee-9c50faf25264",
       "key": "url-account",
       "value": "http://127.0.0.1:8003",
       "type": "string"
     },
     {
-      "id": "9a58f137-88a3-4558-8986-95f03260b6c6",
+      "id": "4fda4cd8-0cda-406f-8806-25a7aec952ab",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "e29f7ac8-77da-4dd0-8634-592b54012850",
+      "id": "e54d700a-bc60-4a14-80a5-fc111477676e",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
