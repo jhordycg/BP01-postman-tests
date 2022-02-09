@@ -176,7 +176,7 @@
           "request": {
             "method": "DELETE",
             "header": [],
-            "url": "{{url-product}}/products/620339840c5e9049d4d49588"
+            "url": "{{url-product}}/products/620345425258251e6274e7b4"
           },
           "response": []
         }
@@ -208,13 +208,13 @@
   ],
   "variable": [
     {
-      "id": "d1e6ca99-5a73-4b80-9212-13f03f810e9e",
+      "id": "9cb5ba5e-b674-45f3-b649-51b255ccfdae",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "eab69e0e-6410-44a6-8d20-a9697ca5ae58",
+      "id": "d8f201d0-26cb-4fd4-8f9b-6be76a42d035",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
