@@ -246,19 +246,6 @@
             "url": "{{url-transaction}}/transactions"
           },
           "response": []
-        },
-        {
-          "name": "New Request",
-          "id": "05a6b8b3-bcf0-48e9-805d-af80ed6bc7b4",
-          "protocolProfileBehavior": {
-            "disableBodyPruning": true
-          },
-          "request": {
-            "method": "GET",
-            "header": [],
-            "url": null
-          },
-          "response": []
         }
       ],
       "id": "1fc2d429-1fe7-41b3-bb04-01a95edad561"
@@ -474,31 +461,31 @@
   ],
   "variable": [
     {
-      "id": "2ab36124-391e-4317-a24a-7c6570534be4",
+      "id": "dd179f1e-0a74-42d5-a685-edc586d27847",
       "key": "url-customer",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "944489da-4cae-46fd-932b-a0b6c9b53fb9",
+      "id": "12394a66-dc8e-4481-bef7-e98e72af2238",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "7694907f-5127-4c0c-9dc7-2afe38ffb1fb",
+      "id": "27fbf03c-2f22-4004-88ae-7e1c6041af7b",
       "key": "url-account",
       "value": "http://127.0.0.1:8003",
       "type": "string"
     },
     {
-      "id": "dfd87183-d1ae-4233-987a-1aa4ecaf7906",
+      "id": "f28b6b84-aa56-42f2-b60e-88babe00a0ea",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "94ad5ca0-8778-42a2-97b5-83808b12c1dd",
+      "id": "38e81b1e-2708-4429-a392-7e559611afb4",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
