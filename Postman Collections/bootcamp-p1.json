@@ -163,7 +163,7 @@
                 }
               }
             },
-            "url": "{{url-product}}/products/620339840c5e9049d4d49588"
+            "url": "{{url-product}}/products/620345425258251e6274e7b4"
           },
           "response": []
         },
@@ -208,13 +208,13 @@
   ],
   "variable": [
     {
-      "id": "35c59f0b-0e62-45e9-a097-656b95394905",
+      "id": "d1e6ca99-5a73-4b80-9212-13f03f810e9e",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "7a184c1b-ab5e-4644-a90b-372c1902099d",
+      "id": "eab69e0e-6410-44a6-8d20-a9697ca5ae58",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
