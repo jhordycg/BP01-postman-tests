@@ -80,6 +80,11 @@
         }
       ],
       "id": "f717b92f-e246-4283-8dd3-6fbdd1a00018"
+    },
+    {
+      "name": "New Folder",
+      "item": [],
+      "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
     }
   ],
   "event": [
@@ -106,7 +111,7 @@
   ],
   "variable": [
     {
-      "id": "9894b7a0-5e39-4b29-b418-92c5480a5e64",
+      "id": "f97e05de-c2d7-40ff-bb7e-f16c9bd32202",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
