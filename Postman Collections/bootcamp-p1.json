@@ -295,9 +295,18 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "POST",
             "header": [],
-            "url": null
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": "{{url-payment}}/payments"
           },
           "response": []
         }
@@ -329,25 +338,25 @@
   ],
   "variable": [
     {
-      "id": "e5ad7321-5f45-4cae-936c-43edd1fca23f",
+      "id": "27128aee-a1c2-4fbc-8230-b43bddf81753",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "7d1f7f46-859c-4ccf-b34d-59048f16786a",
+      "id": "e331c871-4b4b-4362-b0c2-935e88e056fc",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "c0de46cc-9e5a-4fc7-a0df-7a3eaab68711",
+      "id": "f35347f5-946a-4ddb-93b3-d6b28689e0fb",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "62eecc95-9678-47d9-8c7f-82a26a26cef1",
+      "id": "c1ede4cc-dc67-4081-b288-af45c34a49dd",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
