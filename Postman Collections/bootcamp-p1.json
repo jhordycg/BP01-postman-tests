@@ -82,7 +82,7 @@
       "id": "f717b92f-e246-4283-8dd3-6fbdd1a00018"
     },
     {
-      "name": "New Folder",
+      "name": "product",
       "item": [],
       "id": "2e7ffcfb-1066-4886-8a75-85172285b1dd"
     }
@@ -111,7 +111,7 @@
   ],
   "variable": [
     {
-      "id": "ea47b752-519b-433a-a8a8-f443da959f82",
+      "id": "cf4b8a89-6877-4906-bf17-3909bb7a4a11",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
