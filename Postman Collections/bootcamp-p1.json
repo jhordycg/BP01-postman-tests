@@ -117,9 +117,18 @@
             "disableBodyPruning": true
           },
           "request": {
-            "method": "GET",
+            "method": "POST",
             "header": [],
-            "url": null
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"name\": \"Cuenta Free\",\r\n    \"type\": \"Pasivo\",\r\n    \"commission\": false\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": "{{url-product}}/products"
           },
           "response": []
         }
@@ -151,13 +160,13 @@
   ],
   "variable": [
     {
-      "id": "1dbebb9c-33be-47fd-86b7-364ba6e4534c",
+      "id": "d2615d10-3057-43ff-a902-958489a632ac",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "975edcb1-a309-4e0e-9799-899ce9628fca",
+      "id": "9e5ba222-a8bb-4496-acce-449506ae7d50",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
