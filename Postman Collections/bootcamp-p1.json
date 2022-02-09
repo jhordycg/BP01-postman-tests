@@ -271,7 +271,7 @@
           "request": {
             "method": "GET",
             "header": [],
-            "url": null
+            "url": "{{url-payment}}/payments"
           },
           "response": []
         },
@@ -316,25 +316,25 @@
   ],
   "variable": [
     {
-      "id": "ea2000d0-4fcf-433d-ab5b-74dffb64c415",
+      "id": "9675a6ab-b775-4d14-b250-39cf16cb8509",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "71844b93-1040-4a6f-97f3-e3796284adbe",
+      "id": "57b8fa8b-607c-4dcd-a71a-cea86ac38a8b",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "5fd86e24-b1cf-47d5-b4c9-6fca3507397f",
+      "id": "e2810110-6376-4926-8ff3-f3f311cebdc9",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "3bad7a22-ffcf-4995-8b37-329c77e226a7",
+      "id": "463c5878-7c55-485c-bffc-cbde3b8025a9",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
