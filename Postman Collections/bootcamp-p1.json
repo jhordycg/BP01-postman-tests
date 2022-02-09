@@ -93,7 +93,7 @@
           "request": {
             "method": "GET",
             "header": [],
-            "url": null
+            "url": "{{url-product}}/products"
           },
           "response": []
         },
@@ -151,13 +151,13 @@
   ],
   "variable": [
     {
-      "id": "e357c641-83c9-4fff-9a09-61ea8371796b",
+      "id": "ddcd6989-288f-4dac-96ef-be968cf95a07",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "6e34abfb-0c84-45dd-9cc6-5ce12affc9d0",
+      "id": "77215d1c-b6e2-4c96-aa18-1a65c733f061",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
