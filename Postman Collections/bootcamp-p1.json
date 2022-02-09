@@ -321,7 +321,7 @@
       "name": "account",
       "item": [
         {
-          "name": "New Request",
+          "name": "create account",
           "id": "5e1420ea-dbab-4b6e-a1ea-82e34cb42633",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -370,25 +370,25 @@
   ],
   "variable": [
     {
-      "id": "9b68f418-e694-4500-932a-6ecb8e433a2c",
+      "id": "3da944dc-2287-4a15-a162-7a52994a6398",
       "key": "url",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "1c8cfec4-6e64-4bb6-92d3-8178742c4c09",
+      "id": "17e418a0-472f-434d-861e-1161086293d2",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "7af5bccf-62d6-4649-ac29-fa8ee251f507",
+      "id": "a93bfc67-b98c-48f3-a626-f2547b66688f",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "840b1f25-da2b-49c8-be53-63dcec5aa8a4",
+      "id": "f3566a4c-6fb2-438e-8dc2-8dc36c59ca81",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
