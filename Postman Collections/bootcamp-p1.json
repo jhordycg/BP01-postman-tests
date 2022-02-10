@@ -406,7 +406,7 @@
             "method": "PUT",
             "header": [],
             "url": {
-              "raw": "{{url-account}}/accounts/62042efb1434133baa4502bd/?mount=200&type=INCOME",
+              "raw": "{{url-account}}/accounts/62042efb1434133baa4502bd/?mount=400&type=OUTCOME",
               "host": [
                 "{{url-account}}"
               ],
@@ -418,11 +418,11 @@
               "query": [
                 {
                   "key": "mount",
-                  "value": "200"
+                  "value": "400"
                 },
                 {
                   "key": "type",
-                  "value": "INCOME"
+                  "value": "OUTCOME"
                 }
               ]
             }
@@ -496,31 +496,31 @@
   ],
   "variable": [
     {
-      "id": "6fd7932d-7235-4948-99db-c37bd91e4be6",
+      "id": "4dced67e-b852-4291-bc2c-b82914b6ddb6",
       "key": "url-customer",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "1f125d02-0442-4fba-b038-17190a66101c",
+      "id": "f8803af3-753b-4839-beb8-54fa44c4f4bf",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "74674dc2-26d7-417c-8ffc-3f67a792dcb0",
+      "id": "0a33926e-8ee4-4043-a646-08727fc502fe",
       "key": "url-account",
       "value": "http://127.0.0.1:8003",
       "type": "string"
     },
     {
-      "id": "655237d2-66d8-452f-8b3d-4c16013b93bf",
+      "id": "0f4944e4-c5f6-4b48-a3ed-3799e2d27df2",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "5a6171f8-bb3f-459b-8849-96b5cc36de02",
+      "id": "f7c14451-a7be-47fe-b732-33e39dbb426b",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
