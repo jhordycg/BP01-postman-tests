@@ -258,7 +258,7 @@
             "header": [],
             "body": {
               "mode": "raw",
-              "raw": "{\r\n    \"accountId\": \"62042efb1434133baa4502bd\",\r\n    \"type\": \"INCOME\",\r\n    \"amount\": 20\r\n}",
+              "raw": "{\r\n    \"accountId\": \"62042efb1434133baa4502bd\",\r\n    \"type\": \"OUTCOME\",\r\n    \"amount\": 20\r\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -496,31 +496,31 @@
   ],
   "variable": [
     {
-      "id": "3c8377c8-3c6e-47a2-a0f0-c2c787bd9ba8",
+      "id": "6852741b-2ec8-4f25-a297-77b64ed9a55e",
       "key": "url-customer",
       "value": "http://127.0.0.1:8001",
       "type": "string"
     },
     {
-      "id": "840d485b-fe9a-41ae-8f64-219350b5f6e8",
+      "id": "ec160f06-d35f-4c33-9481-df9ee199d00b",
       "key": "url-product",
       "value": "http://127.0.0.1:8002",
       "type": "string"
     },
     {
-      "id": "0f456eec-55f2-44e8-8b67-9ce105c5702c",
+      "id": "bcb76a23-2067-4dcb-af85-8ec339455590",
       "key": "url-account",
       "value": "http://127.0.0.1:8003",
       "type": "string"
     },
     {
-      "id": "b88b8740-d54d-4c08-8e88-f23dcbd8a0cf",
+      "id": "f0c974bd-51a8-49ba-886e-9d8f2259d790",
       "key": "url-transaction",
       "value": "http://127.0.0.1:8004",
       "type": "string"
     },
     {
-      "id": "490b881a-2383-42e2-a394-a1d781c73549",
+      "id": "cbdf0f8b-d088-4735-b68b-6f553889a282",
       "key": "url-payment",
       "value": "http://127.0.0.1:8005",
       "type": "string"
